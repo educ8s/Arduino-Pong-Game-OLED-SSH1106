@@ -1,10 +1,6 @@
 # Arduino Pong Game OLED SSH1106
- Arduino Pong Game OLED
 
-
-# Arduino Pong Game OLED SSH1106
-
-Short description
+This is a Pong Game on a Raspberry Pi Pico and an 1.3" OLED display with the SSH1106 driver. The Raspberry Pi Pico can update the display as fast as 60 times per second.
 
 # Video Tutorial
 
