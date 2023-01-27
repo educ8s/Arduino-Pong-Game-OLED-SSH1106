@@ -5,7 +5,7 @@ This is a Pong Game on a Raspberry Pi Pico and an 1.3" OLED display with the SSH
 # Video Tutorial
 
 <p align="center">
-  <img src="preview.jpg" alt="ST7735 DISPLAY CIRCUITPYTHON" width="800">
+  <img src="preview.jpg" alt="Arduino Pong Game" width="800">
 </p>
 
 <p align="center">
