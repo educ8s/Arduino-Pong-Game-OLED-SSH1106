@@ -9,7 +9,7 @@ This is a Pong Game on a Raspberry Pi Pico and an 1.3" OLED display with the SSH
 </p>
 
 <p align="center">
-🎥 <a href="https://youtu.be/tTsUdK7MMuI">Video Tutorial on YouTube</a>
+🎥 <a href="https://youtu.be/7DlhFy_pxAk">Video Tutorial on YouTube</a>
 </p>
 
 <br>
